@@ -75,4 +75,4 @@ MIT
 
 ---
 
-Built by [Drexon Industries](https://github.com/Divyonic).
+Built by [Divya Kumar Patel](https://github.com/Divyonic).
